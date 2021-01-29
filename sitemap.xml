@@ -3,102 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://unarycomputing.github.io/authors/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/gemm/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/post/toppicks2021/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/open-source/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/post/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tags/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/unary-computing/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/author/unary-computing/</loc>
-    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/nonliearity/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/post/ieeedt-accepted/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/stochastic-computing/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/early-termination/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/energy-efficiency/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/metric/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/post/aspdac-accepted/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <loc>https://unarycomputing.github.io/publication-type/1/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://unarycomputing.github.io/tag/architecture/</loc>
-    <lastmod>2020-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unarycomputing.github.io/talk/</loc>
-    <lastmod>2020-06-01T13:00:00+00:00</lastmod>
+    <loc>https://unarycomputing.github.io/authors/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unarycomputing.github.io/talk/2020-06-01-isca-ugemm/</loc>
-    <lastmod>2020-06-01T13:00:00+00:00</lastmod>
+    <loc>https://unarycomputing.github.io/tag/energy-efficiency/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unarycomputing.github.io/publication-type/1/</loc>
+    <loc>https://unarycomputing.github.io/tag/gemm/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,33 +58,33 @@
   </url>
   
   <url>
+    <loc>https://unarycomputing.github.io/tags/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://unarycomputing.github.io/publication/2020-05-30-isca/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unarycomputing.github.io/tag/unary-computing/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unarycomputing.github.io/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unarycomputing.github.io/author/unary-computing/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://unarycomputing.github.io/author/younghyun-kim/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/talk/2020-02-24-ece752-unary/</loc>
-    <lastmod>2020-02-24T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/talk/2019-10-11-affliate-ugemm/</loc>
-    <lastmod>2019-10-11T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/talk/2019-06-02-dac-instream/</loc>
-    <lastmod>2019-06-02T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/nonlinearity/</loc>
-    <lastmod>2019-06-02T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -173,28 +98,18 @@
   </url>
   
   <url>
+    <loc>https://unarycomputing.github.io/tag/nonlinearity/</loc>
+    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://unarycomputing.github.io/tag/square-root/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unarycomputing.github.io/tag/deep-learning/</loc>
-    <lastmod>2019-03-13T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/talk/2019-03-13-ece752-dl-sc/</loc>
-    <lastmod>2019-03-13T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/post/hello-world/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/talk/2018-10-12-affiliate-nonlinearsc/</loc>
-    <lastmod>2018-10-12T13:00:00+00:00</lastmod>
+    <loc>https://unarycomputing.github.io/tag/stochastic-computing/</loc>
+    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -210,46 +125,6 @@
   <url>
     <loc>https://unarycomputing.github.io/project/unary/</loc>
     <lastmod>2018-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/publication-type/2/</loc>
-    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/ldpc/</loc>
-    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/low-latency/</loc>
-    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/author/qichen-zhang/</loc>
-    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/publication/2016-02-25-tcasii/</loc>
-    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/author/xiaoyang-zeng/</loc>
-    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/author/yeong-luh-ueng/</loc>
-    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/author/yun-chen/</loc>
-    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
