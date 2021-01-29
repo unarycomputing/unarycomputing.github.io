@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nonliearity | Unary Computing</title>
+    <title>Nonliearity | Unary Computing Project</title>
     <link>https://unarycomputing.github.io/tag/nonliearity/</link>
       <atom:link href="https://unarycomputing.github.io/tag/nonliearity/index.xml" rel="self" type="application/rss+xml" />
     <description>Nonliearity</description>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Paper is accepted in IEEE Design &amp; Test 2021</title>
-      <link>https://unarycomputing.github.io/post/ieeedt-accepted/</link>
+      <link>https://unarycomputing.github.io/news/ieeedt-accepted/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://unarycomputing.github.io/post/ieeedt-accepted/</guid>
+      <guid>https://unarycomputing.github.io/news/ieeedt-accepted/</guid>
       <description>&lt;p&gt;This paper is titled &amp;ldquo;In-Stream Correlation-Based Division and Bit-Inserting Square Root in Stochastic Computing&amp;rdquo; in the IEEE Design &amp;amp; Test 2021 Special Issue on Stochastic Computing for Neuromorphic Architectures. And it is an extended version of the previous &lt;a href=&#34;https://diwu1990.github.io/publication/2019-06-02-dac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DAC&#39;19 paper&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

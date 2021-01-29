@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Younghyun Kim | Unary Computing</title>
+    <title>Younghyun Kim | Unary Computing Project</title>
     <link>https://unarycomputing.github.io/author/younghyun-kim/</link>
       <atom:link href="https://unarycomputing.github.io/author/younghyun-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Younghyun Kim</description>
@@ -11,6 +11,14 @@
       <title>Younghyun Kim</title>
       <link>https://unarycomputing.github.io/author/younghyun-kim/</link>
     </image>
+    
+    <item>
+      <title>uGEMM: Unary Computing Architecture for GEMM Applications</title>
+      <link>https://unarycomputing.github.io/news/2020-05-30-isca/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/news/2020-05-30-isca/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>uGEMM: Unary Computing Architecture for GEMM Applications</title>
