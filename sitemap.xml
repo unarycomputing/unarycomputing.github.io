@@ -143,6 +143,11 @@
   </url>
   
   <url>
+    <loc>https://unarycomputing.github.io/project/arch-fully-streaming/</loc>
+    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://unarycomputing.github.io/news/2019-06-02-dac/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
   </url>
@@ -158,6 +163,11 @@
   </url>
   
   <url>
+    <loc>https://unarycomputing.github.io/project/</loc>
+    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://unarycomputing.github.io/tag/square-root/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
   </url>
@@ -168,17 +178,22 @@
   </url>
   
   <url>
+    <loc>https://unarycomputing.github.io/project/sim-function/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unarycomputing.github.io/project/arch-hybrid-unary-binary/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://unarycomputing.github.io/tag/low-power/</loc>
     <lastmod>2018-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unarycomputing.github.io/project/</loc>
-    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/project/unary/</loc>
+    <loc>https://unarycomputing.github.io/project/sim-performance/</loc>
     <lastmod>2018-06-30T00:00:00+00:00</lastmod>
   </url>
   
