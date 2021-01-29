@@ -1,38 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Di Wu | Unary Computing Projects</title>
-    <link>https://unarycomputing.github.io/author/di-wu/</link>
-      <atom:link href="https://unarycomputing.github.io/author/di-wu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Di Wu</description>
+    <title>Resources | Unary Computing Projects</title>
+    <link>https://unarycomputing.github.io/resource/</link>
+      <atom:link href="https://unarycomputing.github.io/resource/index.xml" rel="self" type="application/rss+xml" />
+    <description>Resources</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://unarycomputing.github.io/images/icon_hu2f92d5b25d123590de0ad34a835a1117_925155_512x512_fill_lanczos_center_2.png</url>
-      <title>Di Wu</title>
-      <link>https://unarycomputing.github.io/author/di-wu/</link>
+      <title>Resources</title>
+      <link>https://unarycomputing.github.io/resource/</link>
     </image>
-    
-    <item>
-      <title>uGEMM: Unary Computing Architecture for GEMM Applications</title>
-      <link>https://unarycomputing.github.io/publication/2020-05-30-isca/</link>
-      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://unarycomputing.github.io/publication/2020-05-30-isca/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>uGEMM: Unary Computing Architecture for GEMM Applications</title>
       <link>https://unarycomputing.github.io/resource/2020-05-30-isca/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       <guid>https://unarycomputing.github.io/resource/2020-05-30-isca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>In-Stream Stochastic Division and Square Root via Correlation</title>
-      <link>https://unarycomputing.github.io/publication/2019-06-02-dac/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://unarycomputing.github.io/publication/2019-06-02-dac/</guid>
       <description></description>
     </item>
     
