@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unary Computing</title>
+    <link>https://unarycomputing.github.io/author/unary-computing/</link>
+      <atom:link href="https://unarycomputing.github.io/author/unary-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unary Computing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://unarycomputing.github.io/author/unary-computing/avatar_hu40921ba7682c3ebeb15127fdd163c241_3034937_270x270_fill_lanczos_center_2.png</url>
+      <title>Unary Computing</title>
+      <link>https://unarycomputing.github.io/author/unary-computing/</link>
+    </image>
+    
+    <item>
+      <title>ISCA&#39;20 paper is selected in IEEE Micro Top Picks 2021</title>
+      <link>https://unarycomputing.github.io/post/toppicks2021/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/post/toppicks2021/</guid>
+      <description>&lt;p&gt;A brief introduction to the original &lt;a href=&#34;https://ieeexplore.ieee.org/document/9139000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA&#39;20 paper&lt;/a&gt; is &lt;a href=&#34;https://diwu1990.github.io/publication/2020-05-30-isca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper is accepted in IEEE Design &amp; Test 2021</title>
+      <link>https://unarycomputing.github.io/post/ieeedt-accepted/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/post/ieeedt-accepted/</guid>
+      <description>&lt;p&gt;This paper is titled &amp;ldquo;In-Stream Correlation-Based Division and Bit-Inserting Square Root in Stochastic Computing&amp;rdquo; in the IEEE Design &amp;amp; Test 2021 Special Issue on Stochastic Computing for Neuromorphic Architectures. And it is an extended version of the previous &lt;a href=&#34;https://diwu1990.github.io/publication/2019-06-02-dac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DAC&#39;19 paper&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper is accepted in ASP-DAC 2021</title>
+      <link>https://unarycomputing.github.io/post/aspdac-accepted/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/post/aspdac-accepted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uGEMM: Unary Computing Architecture for GEMM Applications</title>
+      <link>https://unarycomputing.github.io/talk/2020-06-01-isca-ugemm/</link>
+      <pubDate>Mon, 01 Jun 2020 13:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/talk/2020-06-01-isca-ugemm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uGEMM: Unary Computing Architecture for GEMM Applications</title>
+      <link>https://unarycomputing.github.io/publication/2020-05-30-isca/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/publication/2020-05-30-isca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Unary Computing</title>
+      <link>https://unarycomputing.github.io/talk/2020-02-24-ece752-unary/</link>
+      <pubDate>Mon, 24 Feb 2020 13:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/talk/2020-02-24-ece752-unary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unary Computing for General Matrix Multiplication</title>
+      <link>https://unarycomputing.github.io/talk/2019-10-11-affliate-ugemm/</link>
+      <pubDate>Fri, 11 Oct 2019 13:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/talk/2019-10-11-affliate-ugemm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Stream Stochastic Division and Square Root via Correlation</title>
+      <link>https://unarycomputing.github.io/talk/2019-06-02-dac-instream/</link>
+      <pubDate>Sun, 02 Jun 2019 13:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/talk/2019-06-02-dac-instream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Stream Stochastic Division and Square Root via Correlation</title>
+      <link>https://unarycomputing.github.io/publication/2019-06-02-dac/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/publication/2019-06-02-dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning and Stochastic Computing</title>
+      <link>https://unarycomputing.github.io/talk/2019-03-13-ece752-dl-sc/</link>
+      <pubDate>Wed, 13 Mar 2019 13:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/talk/2019-03-13-ece752-dl-sc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://unarycomputing.github.io/post/hello-world/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/post/hello-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Stochastic Functions for Capsule Neural Network</title>
+      <link>https://unarycomputing.github.io/talk/2018-10-12-affiliate-nonlinearsc/</link>
+      <pubDate>Fri, 12 Oct 2018 13:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/talk/2018-10-12-affiliate-nonlinearsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategies for Reducing Decoding Cycles in Stochastic LDPC Decoders</title>
+      <link>https://unarycomputing.github.io/publication/2016-02-25-tcasii/</link>
+      <pubDate>Thu, 25 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/publication/2016-02-25-tcasii/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
