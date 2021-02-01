@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="Stochastic Computing (SC) is designed to minimize hardware area and power consumption compared to traditional binary-encoded computation, stemming from the bit-serial data representation and extremely straightforward logic. Though existing Stochastic Computing Units mostly assume uncorrelated bit streams, recent works find that correlation can be exploited for higher accuracy. We propose novel architectures for SC division and square root, which leverage correlation via low-cost in-stream mechanisms that eliminate expensive bit stream regeneration. We also introduce new metrics to better evaluate SC circuits relying on equilibrium via feedback loops. Experiments indicate that our division converges 46.3% faster with both 43.3% lower error and 45.6% less area.">
+  <meta name="description" content="Stochastic computing (SC), with its probabilistic data representation format, has sparked renewed interest due to its ability to use very simple circuits to implement complex operations. Though unlike traditional binary computing, SC needs to carefully handle correlations that exist across data values to avoid the risk of unacceptably inaccurate results. With many SC circuits designed to operate under the assumption that input values are independent, it is important to provide the ability to accurately measure and characterize independence of SC bitstreams. We propose zero correlation error (ZCE), a metric that quantifies how independent two finite-length bitstreams are, and show that it addresses fundamental limitations in metrics currently used by the SC community. Through evaluation at both the functional unit level and application level, we demonstrate how ZCE can be an effective tool for analyzing SC bitstreams, simulating circuits and design space exploration.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://unarycomputing.github.io/publication/2019-06-02-dac/">
+  <link rel="alternate" hreflang="en-us" href="https://unarycomputing.github.io/publication/2021-01-18-aspdac-zce/">
 
   
 
@@ -268,7 +268,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu2f92d5b25d123590de0ad34a835a1117_925155_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu2f92d5b25d123590de0ad34a835a1117_925155_180x180_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://unarycomputing.github.io/publication/2019-06-02-dac/">
+  <link rel="canonical" href="https://unarycomputing.github.io/publication/2021-01-18-aspdac-zce/">
 
   
   
@@ -284,15 +284,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Unary Computing Projects">
-  <meta property="og:url" content="https://unarycomputing.github.io/publication/2019-06-02-dac/">
-  <meta property="og:title" content="In-Stream Stochastic Division and Square Root via Correlation | Unary Computing Projects">
-  <meta property="og:description" content="Stochastic Computing (SC) is designed to minimize hardware area and power consumption compared to traditional binary-encoded computation, stemming from the bit-serial data representation and extremely straightforward logic. Though existing Stochastic Computing Units mostly assume uncorrelated bit streams, recent works find that correlation can be exploited for higher accuracy. We propose novel architectures for SC division and square root, which leverage correlation via low-cost in-stream mechanisms that eliminate expensive bit stream regeneration. We also introduce new metrics to better evaluate SC circuits relying on equilibrium via feedback loops. Experiments indicate that our division converges 46.3% faster with both 43.3% lower error and 45.6% less area."><meta property="og:image" content="https://unarycomputing.github.io/images/icon_hu2f92d5b25d123590de0ad34a835a1117_925155_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://unarycomputing.github.io/publication/2021-01-18-aspdac-zce/">
+  <meta property="og:title" content="Zero Correlation Error: A Metric for Finite-Length Bitstream Independence in Stochastic Computing | Unary Computing Projects">
+  <meta property="og:description" content="Stochastic computing (SC), with its probabilistic data representation format, has sparked renewed interest due to its ability to use very simple circuits to implement complex operations. Though unlike traditional binary computing, SC needs to carefully handle correlations that exist across data values to avoid the risk of unacceptably inaccurate results. With many SC circuits designed to operate under the assumption that input values are independent, it is important to provide the ability to accurately measure and characterize independence of SC bitstreams. We propose zero correlation error (ZCE), a metric that quantifies how independent two finite-length bitstreams are, and show that it addresses fundamental limitations in metrics currently used by the SC community. Through evaluation at both the functional unit level and application level, we demonstrate how ZCE can be an effective tool for analyzing SC bitstreams, simulating circuits and design space exploration."><meta property="og:image" content="https://unarycomputing.github.io/images/icon_hu2f92d5b25d123590de0ad34a835a1117_925155_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://unarycomputing.github.io/images/icon_hu2f92d5b25d123590de0ad34a835a1117_925155_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2019-06-02T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-01-18T00:00:00&#43;00:00">
   
 
   
@@ -314,16 +314,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://unarycomputing.github.io/publication/2019-06-02-dac/"
+    "@id": "https://unarycomputing.github.io/publication/2021-01-18-aspdac-zce/"
   },
-  "headline": "In-Stream Stochastic Division and Square Root via Correlation",
+  "headline": "Zero Correlation Error: A Metric for Finite-Length Bitstream Independence in Stochastic Computing",
   
   "datePublished": "2017-01-01T00:00:00Z",
-  "dateModified": "2019-06-02T00:00:00Z",
+  "dateModified": "2021-01-18T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Di Wu"
+    "name": "Hsuan Hsiao"
   },
   
   "publisher": {
@@ -334,7 +334,7 @@
       "url": "https://unarycomputing.github.io/images/icon_hu2f92d5b25d123590de0ad34a835a1117_925155_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Stochastic Computing (SC) is designed to minimize hardware area and power consumption compared to traditional binary-encoded computation, stemming from the bit-serial data representation and extremely straightforward logic. Though existing Stochastic Computing Units mostly assume uncorrelated bit streams, recent works find that correlation can be exploited for higher accuracy. We propose novel architectures for SC division and square root, which leverage correlation via low-cost in-stream mechanisms that eliminate expensive bit stream regeneration. We also introduce new metrics to better evaluate SC circuits relying on equilibrium via feedback loops. Experiments indicate that our division converges 46.3% faster with both 43.3% lower error and 45.6% less area."
+  "description": "Stochastic computing (SC), with its probabilistic data representation format, has sparked renewed interest due to its ability to use very simple circuits to implement complex operations. Though unlike traditional binary computing, SC needs to carefully handle correlations that exist across data values to avoid the risk of unacceptably inaccurate results. With many SC circuits designed to operate under the assumption that input values are independent, it is important to provide the ability to accurately measure and characterize independence of SC bitstreams. We propose zero correlation error (ZCE), a metric that quantifies how independent two finite-length bitstreams are, and show that it addresses fundamental limitations in metrics currently used by the SC community. Through evaluation at both the functional unit level and application level, we demonstrate how ZCE can be an effective tool for analyzing SC bitstreams, simulating circuits and design space exploration."
 }
 </script>
 
@@ -352,7 +352,7 @@
 
 
 
-  <title>In-Stream Stochastic Division and Square Root via Correlation | Unary Computing Projects</title>
+  <title>Zero Correlation Error: A Metric for Finite-Length Bitstream Independence in Stochastic Computing | Unary Computing Projects</title>
 
 </head>
 
@@ -720,7 +720,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>In-Stream Stochastic Division and Square Root via Correlation</h1>
+  <h1>Zero Correlation Error: A Metric for Finite-Length Bitstream Independence in Stochastic Computing</h1>
 
   
 
@@ -738,8 +738,10 @@
     
 
   <span >
-      <a href="/author/di-wu/">Di Wu</a></span>, <span >
-      <a href="/author/joshua-san-miguel/">Joshua San Miguel</a></span>
+      <a href="/author/hsuan-hsiao/">Hsuan Hsiao</a></span>, <span >
+      <a href="/author/joshua-san-miguel/">Joshua San Miguel</a></span>, <span >
+      <a href="/author/yuko-hara-azumi/">Yuko Hara-Azumi</a></span>, <span >
+      <a href="/author/jason-anderson/">Jason Anderson</a></span>
   </div>
   
   
@@ -750,7 +752,7 @@
     
       
     
-    June 2019
+    January 2021
   </span>
   
 
@@ -791,54 +793,30 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="/files/2019-06-02-dac-paper.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="/files/2021-01-18-aspdac-zce-paper.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/2019-06-02-dac/cite.bib">
+        data-filename="/publication/2021-01-18-aspdac-zce/cite.bib">
   Cite
 </a>
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/diwu1990/UnarySim/tree/master/sw/test/kernel" target="_blank" rel="noopener">
-  Code
-</a>
-
 
 
 
   
-  <a class="btn btn-outline-primary btn-page-header" href="/project/arch-fully-streaming/">
+  <a class="btn btn-outline-primary btn-page-header" href="/project/sim-function/">
     Project
   </a>
   
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="/files/2019-06-02-dac-poster.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
 
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="/files/2019-06-02-dac-slide.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
 
 
 
@@ -847,7 +825,7 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="https://ieeexplore.ieee.org/document/8806792" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://dl.acm.org/doi/10.1145/3394885.3431552" target="_blank" rel="noopener">
   Source Document
 </a>
 
@@ -866,7 +844,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Stochastic Computing (SC) is designed to minimize hardware area and power consumption compared to traditional binary-encoded computation, stemming from the bit-serial data representation and extremely straightforward logic. Though existing Stochastic Computing Units mostly assume uncorrelated bit streams, recent works find that correlation can be exploited for higher accuracy. We propose novel architectures for SC division and square root, which leverage correlation via low-cost in-stream mechanisms that eliminate expensive bit stream regeneration. We also introduce new metrics to better evaluate SC circuits relying on equilibrium via feedback loops. Experiments indicate that our division converges 46.3% faster with both 43.3% lower error and 45.6% less area.</p>
+    <p class="pub-abstract">Stochastic computing (SC), with its probabilistic data representation format, has sparked renewed interest due to its ability to use very simple circuits to implement complex operations. Though unlike traditional binary computing, SC needs to carefully handle correlations that exist across data values to avoid the risk of unacceptably inaccurate results. With many SC circuits designed to operate under the assumption that input values are independent, it is important to provide the ability to accurately measure and characterize independence of SC bitstreams. We propose zero correlation error (ZCE), a metric that quantifies how independent two finite-length bitstreams are, and show that it addresses fundamental limitations in metrics currently used by the SC community. Through evaluation at both the functional unit level and application level, we demonstrate how ZCE can be an effective tool for analyzing SC bitstreams, simulating circuits and design space exploration.</p>
     
 
     
@@ -894,7 +872,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>Design Automation Conference</em></div>
+          <div class="col-12 col-md-9">In <em>Asia and South Pacific Design Automation Conference</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -926,7 +904,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://unarycomputing.github.io/publication/2019-06-02-dac/&amp;text=In-Stream%20Stochastic%20Division%20and%20Square%20Root%20via%20Correlation" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://unarycomputing.github.io/publication/2021-01-18-aspdac-zce/&amp;text=Zero%20Correlation%20Error:%20A%20Metric%20for%20Finite-Length%20Bitstream%20Independence%20in%20Stochastic%20Computing" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -939,7 +917,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://unarycomputing.github.io/publication/2019-06-02-dac/&amp;t=In-Stream%20Stochastic%20Division%20and%20Square%20Root%20via%20Correlation" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://unarycomputing.github.io/publication/2021-01-18-aspdac-zce/&amp;t=Zero%20Correlation%20Error:%20A%20Metric%20for%20Finite-Length%20Bitstream%20Independence%20in%20Stochastic%20Computing" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -952,7 +930,7 @@
       
       
       <li>
-        <a href="mailto:?subject=In-Stream%20Stochastic%20Division%20and%20Square%20Root%20via%20Correlation&amp;body=https://unarycomputing.github.io/publication/2019-06-02-dac/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Zero%20Correlation%20Error:%20A%20Metric%20for%20Finite-Length%20Bitstream%20Independence%20in%20Stochastic%20Computing&amp;body=https://unarycomputing.github.io/publication/2021-01-18-aspdac-zce/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -965,7 +943,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://unarycomputing.github.io/publication/2019-06-02-dac/&amp;title=In-Stream%20Stochastic%20Division%20and%20Square%20Root%20via%20Correlation" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://unarycomputing.github.io/publication/2021-01-18-aspdac-zce/&amp;title=Zero%20Correlation%20Error:%20A%20Metric%20for%20Finite-Length%20Bitstream%20Independence%20in%20Stochastic%20Computing" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -978,7 +956,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=In-Stream%20Stochastic%20Division%20and%20Square%20Root%20via%20Correlation%20https://unarycomputing.github.io/publication/2019-06-02-dac/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Zero%20Correlation%20Error:%20A%20Metric%20for%20Finite-Length%20Bitstream%20Independence%20in%20Stochastic%20Computing%20https://unarycomputing.github.io/publication/2021-01-18-aspdac-zce/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -991,7 +969,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://unarycomputing.github.io/publication/2019-06-02-dac/&amp;title=In-Stream%20Stochastic%20Division%20and%20Square%20Root%20via%20Correlation" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://unarycomputing.github.io/publication/2021-01-18-aspdac-zce/&amp;title=Zero%20Correlation%20Error:%20A%20Metric%20for%20Finite-Length%20Bitstream%20Independence%20in%20Stochastic%20Computing" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1010,6 +988,18 @@
 
 
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
   
     
 
@@ -1043,11 +1033,11 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/2021-01-18-aspdac-ns/">Normalized Stability: A Cross-Level Design Metric for Early Termination in Stochastic Computing</a></li>
-      
       <li><a href="/publication/2020-05-30-isca/">uGEMM: Unary Computing Architecture for GEMM Applications</a></li>
       
-      <li><a href="/publication/2021-01-18-aspdac-zce/">Zero Correlation Error: A Metric for Finite-Length Bitstream Independence in Stochastic Computing</a></li>
+      <li><a href="/publication/2019-06-02-dac/">In-Stream Stochastic Division and Square Root via Correlation</a></li>
+      
+      <li><a href="/publication/2021-01-18-aspdac-ns/">Normalized Stability: A Cross-Level Design Metric for Early Termination in Stochastic Computing</a></li>
       
     </ul>
   </div>
