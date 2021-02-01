@@ -18,53 +18,13 @@
   </url>
   
   <url>
-    <loc>https://unarycomputing.github.io/authors/</loc>
+    <loc>https://unarycomputing.github.io/post/2020-12-30-ieee-dt/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unarycomputing.github.io/tag/nonliearity/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/post/ieeedt-accepted/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/stochastic-computing/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tags/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/author/unary-computing/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/early-termination/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/energy-efficiency/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/metric/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/post/aspdac-accepted/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <loc>https://unarycomputing.github.io/post/2020-09-12-aspdac/</loc>
+    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -73,17 +33,12 @@
   </url>
   
   <url>
-    <loc>https://unarycomputing.github.io/tag/architecture/</loc>
+    <loc>https://unarycomputing.github.io/authors/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://unarycomputing.github.io/author/di-wu/</loc>
-    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/tag/gemm/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -99,6 +54,11 @@
   
   <url>
     <loc>https://unarycomputing.github.io/author/joshua-san-miguel/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unarycomputing.github.io/post/2020-05-30-isca/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,11 +83,6 @@
   </url>
   
   <url>
-    <loc>https://unarycomputing.github.io/post/2020-05-30-isca/</loc>
-    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://unarycomputing.github.io/publication/2020-05-30-isca/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
@@ -138,27 +93,12 @@
   </url>
   
   <url>
-    <loc>https://unarycomputing.github.io/tag/unary-computing/</loc>
-    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://unarycomputing.github.io/author/younghyun-kim/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unarycomputing.github.io/tag/division/</loc>
-    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://unarycomputing.github.io/project/arch-fully-streaming/</loc>
-    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unarycomputing.github.io/post/2019-06-02-dac/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -173,7 +113,7 @@
   </url>
   
   <url>
-    <loc>https://unarycomputing.github.io/tag/nonlinearity/</loc>
+    <loc>https://unarycomputing.github.io/post/2019-06-02-dac/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,13 +123,13 @@
   </url>
   
   <url>
-    <loc>https://unarycomputing.github.io/tag/square-root/</loc>
-    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+    <loc>https://unarycomputing.github.io/tag/architecture/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unarycomputing.github.io/post/hello-world/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>https://unarycomputing.github.io/tag/energy-efficiency/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -213,7 +153,21 @@
   </url>
   
   <url>
+    <loc>https://unarycomputing.github.io/tags/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unarycomputing.github.io/tag/unary-computing/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://unarycomputing.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://unarycomputing.github.io/author/unary-computing/</loc>
   </url>
   
 </urlset>

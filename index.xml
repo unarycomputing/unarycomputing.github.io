@@ -22,28 +22,30 @@
     </item>
     
     <item>
-      <title>Paper is accepted in IEEE Design &amp; Test 2021</title>
-      <link>https://unarycomputing.github.io/post/ieeedt-accepted/</link>
+      <title>Paper on nonlinear unit design is accepted in IEEE Design &amp; Test 2021</title>
+      <link>https://unarycomputing.github.io/post/2020-12-30-ieee-dt/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://unarycomputing.github.io/post/ieeedt-accepted/</guid>
-      <description>&lt;p&gt;This paper is titled &amp;ldquo;In-Stream Correlation-Based Division and Bit-Inserting Square Root in Stochastic Computing&amp;rdquo; in the IEEE Design &amp;amp; Test 2021 Special Issue on Stochastic Computing for Neuromorphic Architectures. And it is an extended version of the previous &lt;a href=&#34;https://diwu1990.github.io/publication/2019-06-02-dac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DAC&#39;19 paper&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://unarycomputing.github.io/post/2020-12-30-ieee-dt/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/9319166&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This paper&lt;/a&gt; is titled &amp;ldquo;In-Stream Correlation-Based Division and Bit-Inserting Square Root in Stochastic Computing&amp;rdquo; in the IEEE Design &amp;amp; Test 2021 Special Issue on Stochastic Computing for Neuromorphic Architectures. And it is an extended work of the previous &lt;a href=&#34;https://unarycomputing.github.io/publication/2019-06-02-dac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DAC&#39;19 paper&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Paper is accepted in ASP-DAC 2021</title>
-      <link>https://unarycomputing.github.io/post/aspdac-accepted/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://unarycomputing.github.io/post/aspdac-accepted/</guid>
-      <description></description>
+      <title>Paper on metric-based early termination is accepted in ASP-DAC 2021</title>
+      <link>https://unarycomputing.github.io/post/2020-09-12-aspdac/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/post/2020-09-12-aspdac/</guid>
+      <description>&lt;p&gt;This paper introduces a novel metric to monitor the accuracy evolution over time, and leverage this metric to early terminate stochastic computing reliably.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>uGEMM: Unary Computing Architecture for GEMM Applications</title>
+      <title>Paper on unary GEMM architecture is accepted in ISCA 2020</title>
       <link>https://unarycomputing.github.io/post/2020-05-30-isca/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       <guid>https://unarycomputing.github.io/post/2020-05-30-isca/</guid>
-      <description></description>
+      <description>&lt;p&gt;This &lt;a href=&#34;https://ieeexplore.ieee.org/document/9139000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA&#39;20 paper&lt;/a&gt; is summarized &lt;a href=&#34;https://unarycomputing.github.io/publication/2020-05-30-isca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -74,14 +76,6 @@ Currently, unary computing has already been applied to low-density parity-check 
     
     <item>
       <title>In-Stream Stochastic Division and Square Root via Correlation</title>
-      <link>https://unarycomputing.github.io/post/2019-06-02-dac/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://unarycomputing.github.io/post/2019-06-02-dac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>In-Stream Stochastic Division and Square Root via Correlation</title>
       <link>https://unarycomputing.github.io/publication/2019-06-02-dac/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://unarycomputing.github.io/publication/2019-06-02-dac/</guid>
@@ -97,11 +91,12 @@ Currently, unary computing has already been applied to low-density parity-check 
     </item>
     
     <item>
-      <title>Hello World!</title>
-      <link>https://unarycomputing.github.io/post/hello-world/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://unarycomputing.github.io/post/hello-world/</guid>
-      <description></description>
+      <title>Paper on nonlinear unit design is accepted in DAC 2019</title>
+      <link>https://unarycomputing.github.io/post/2019-06-02-dac/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/post/2019-06-02-dac/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3316781.3317844&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This paper&lt;/a&gt; is titled &amp;ldquo;In-Stream Correlation-Based Division and Square Root in Stochastic Computing&amp;rdquo; and briefly introduced &lt;a href=&#34;https://unarycomputing.github.io/publication/2019-06-02-dac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
