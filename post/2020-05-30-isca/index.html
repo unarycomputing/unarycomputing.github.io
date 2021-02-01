@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="General matrix multiplication (GEMM) is universal in various applications, such as signal processing, machine learning, and computer vision. Conventional GEMM hardware architectures based on binary computing exhibit low area and energy efficiency as they scale due to the spatial nature of number representation and computing. Unary computing, on the other hand, can be performed with extremely simple processing units, often just with a single logic gate. But currently there exist no efficient architectures for unary GEMM. In this paper, we present uGEMM, an area- and energy-efficient unary GEMM architecture enabled by novel arithmetic units. The proposed design relaxes previously-imposed constraints on input bit streams—low correlation and long stream length—and achieves superior area and energy efficiency over existing unary systems. Furthermore, uGEMM’s output bit streams exhibit higher accuracy and faster convergence, enabling dynamic energy-accuracy scaling on resource-constrained systems.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://unarycomputing.github.io/tag/energy-efficiency/">
+  <link rel="alternate" hreflang="en-us" href="https://unarycomputing.github.io/post/2020-05-30-isca/">
 
   
 
@@ -260,8 +260,6 @@
   
 
   
-  <link rel="alternate" href="/tag/energy-efficiency/index.xml" type="application/rss+xml" title="Unary Computing Projects">
-  
 
   
   <link rel="manifest" href="/index.webmanifest">
@@ -270,7 +268,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu2f92d5b25d123590de0ad34a835a1117_925155_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu2f92d5b25d123590de0ad34a835a1117_925155_180x180_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://unarycomputing.github.io/tag/energy-efficiency/">
+  <link rel="canonical" href="https://unarycomputing.github.io/post/2020-05-30-isca/">
 
   
   
@@ -280,35 +278,86 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Unary Computing Projects">
-  <meta property="og:url" content="https://unarycomputing.github.io/tag/energy-efficiency/">
-  <meta property="og:title" content="Energy Efficiency | Unary Computing Projects">
-  <meta property="og:description" content=""><meta property="og:image" content="https://unarycomputing.github.io/images/icon_hu2f92d5b25d123590de0ad34a835a1117_925155_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://unarycomputing.github.io/images/icon_hu2f92d5b25d123590de0ad34a835a1117_925155_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://unarycomputing.github.io/post/2020-05-30-isca/">
+  <meta property="og:title" content="uGEMM: Unary Computing Architecture for GEMM Applications | Unary Computing Projects">
+  <meta property="og:description" content="General matrix multiplication (GEMM) is universal in various applications, such as signal processing, machine learning, and computer vision. Conventional GEMM hardware architectures based on binary computing exhibit low area and energy efficiency as they scale due to the spatial nature of number representation and computing. Unary computing, on the other hand, can be performed with extremely simple processing units, often just with a single logic gate. But currently there exist no efficient architectures for unary GEMM. In this paper, we present uGEMM, an area- and energy-efficient unary GEMM architecture enabled by novel arithmetic units. The proposed design relaxes previously-imposed constraints on input bit streams—low correlation and long stream length—and achieves superior area and energy efficiency over existing unary systems. Furthermore, uGEMM’s output bit streams exhibit higher accuracy and faster convergence, enabling dynamic energy-accuracy scaling on resource-constrained systems."><meta property="og:image" content="https://unarycomputing.github.io/post/2020-05-30-isca/featured.png">
+  <meta property="twitter:image" content="https://unarycomputing.github.io/post/2020-05-30-isca/featured.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-10-06T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-05-30T00:00:00&#43;00:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://unarycomputing.github.io/post/2020-05-30-isca/"
+  },
+  "headline": "uGEMM: Unary Computing Architecture for GEMM Applications",
+  
+  "image": [
+    "https://unarycomputing.github.io/post/2020-05-30-isca/featured.png"
+  ],
+  
+  "datePublished": "2017-01-01T00:00:00Z",
+  "dateModified": "2020-05-30T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Unary Computing"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Unary Computing Projects",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://unarycomputing.github.io/images/icon_hu2f92d5b25d123590de0ad34a835a1117_925155_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "General matrix multiplication (GEMM) is universal in various applications, such as signal processing, machine learning, and computer vision. Conventional GEMM hardware architectures based on binary computing exhibit low area and energy efficiency as they scale due to the spatial nature of number representation and computing. Unary computing, on the other hand, can be performed with extremely simple processing units, often just with a single logic gate. But currently there exist no efficient architectures for unary GEMM. In this paper, we present uGEMM, an area- and energy-efficient unary GEMM architecture enabled by novel arithmetic units. The proposed design relaxes previously-imposed constraints on input bit streams—low correlation and long stream length—and achieves superior area and energy efficiency over existing unary systems. Furthermore, uGEMM’s output bit streams exhibit higher accuracy and faster convergence, enabling dynamic energy-accuracy scaling on resource-constrained systems."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
 
 
 
-  <title>Energy Efficiency | Unary Computing Projects</title>
+  <title>uGEMM: Unary Computing Architecture for GEMM Applications | Unary Computing Projects</title>
 
 </head>
 
@@ -646,6 +695,187 @@
   </div>
 
   <div class="page-body">
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>uGEMM: Unary Computing Architecture for GEMM Applications</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      <a href="/author/unary-computing/">Unary Computing</a></span>, <span >
+      <a href="/author/jingjie-li/">Jingjie Li</a></span>, <span >
+      <a href="/author/ruokai-yin/">Ruokai Yin</a></span>, <span >
+      <a href="/author/hsuan-hsiao/">Hsuan Hsiao</a></span>, <span >
+      <a href="/author/younghyun-kim/">Younghyun Kim</a></span>, <span >
+      <a href="/author/joshua-san-miguel/">Joshua San Miguel</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 30, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    0 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="/files/2020-05-30-isca-paper.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/post/2020-05-30-isca/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="/files/2020-05-30-isca-slide.pptx" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=4lCKXD3g3yk" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://ieeexplore.ieee.org/document/9139000/" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header container featured-image-wrapper mt-4 mb-4" style="max-width: 1158px; max-height: 416px;">
+  <div style="position: relative">
+    <img src="/post/2020-05-30-isca/featured.png" alt="" class="featured-image">
+    <span class="article-header-caption">Unifying GEMM for rate- and temporal-codings</span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+    </div>
+
     
 
 
@@ -653,110 +883,231 @@
 
 
 
-
-
-
-
-
-
+<div class="article-tags">
   
-
+  <a class="badge badge-light" href="/tag/unary-computing/">Unary Computing</a>
   
+  <a class="badge badge-light" href="/tag/gemm/">GEMM</a>
   
+  <a class="badge badge-light" href="/tag/energy-efficiency/">Energy Efficiency</a>
   
-    
-  
-<div class="universal-wrapper pt-3">
-  <h1>Energy Efficiency</h1>
-
-  
-
+  <a class="badge badge-light" href="/tag/architecture/">Architecture</a>
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
-
-  
-  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
-    
-    
-    <div>
-      <h2><a href="/post/aspdac-accepted/" >Paper is accepted in ASP-DAC 2021</a></h2>
-      <div class="article-style">
+      
+      
+      
         
-          This paper introduces a metric to identify better SC units and predict the timing for early termination.
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://unarycomputing.github.io/post/2020-05-30-isca/&amp;text=uGEMM:%20Unary%20Computing%20Architecture%20for%20GEMM%20Applications" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
         
-      </div>
-    </div>
-  
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://unarycomputing.github.io/post/2020-05-30-isca/&amp;t=uGEMM:%20Unary%20Computing%20Architecture%20for%20GEMM%20Applications" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
     
-    
-    
-    <div>
-      <h2><a href="/post/2020-05-30-isca/" >uGEMM: Unary Computing Architecture for GEMM Applications</a></h2>
-      <div class="article-style">
+      
+      
+      
         
-          General matrix multiplication (GEMM) is universal in various applications, such as signal processing, machine learning, and computer vision. Conventional GEMM hardware architectures based on binary computing exhibit low area and energy efficiency as …
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=uGEMM:%20Unary%20Computing%20Architecture%20for%20GEMM%20Applications&amp;body=https://unarycomputing.github.io/post/2020-05-30-isca/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
         
-      </div>
-    </div>
-  
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://unarycomputing.github.io/post/2020-05-30-isca/&amp;title=uGEMM:%20Unary%20Computing%20Architecture%20for%20GEMM%20Applications" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
     
-    
-    
-    <div>
-      <h2><a href="/post/2019-06-02-dac/" >In-Stream Stochastic Division and Square Root via Correlation</a></h2>
-      <div class="article-style">
+      
+      
+      
         
-          Stochastic Computing (SC) is designed to minimize hardware area and power consumption compared to traditional binary-encoded computation, stemming from the bit-serial data representation and extremely straightforward logic. Though existing Stochastic …
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=uGEMM:%20Unary%20Computing%20Architecture%20for%20GEMM%20Applications%20https://unarycomputing.github.io/post/2020-05-30-isca/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
         
-      </div>
-    </div>
-  
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://unarycomputing.github.io/post/2020-05-30-isca/&amp;title=uGEMM:%20Unary%20Computing%20Architecture%20for%20GEMM%20Applications" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
-    
-    
-    <div>
-      <h2><a href="/project/sim-function/" >Function Simulation for Unary Computing</a></h2>
-      <div class="article-style">
-        
-          An emerging computing scheme based on unary bit streams.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/project/arch-hybrid-unary-binary/" >Hybrid Unary Binary Architecture</a></h2>
-      <div class="article-style">
-        
-          An emerging computing scheme based on unary bit streams.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/project/sim-performance/" >Performance Simulation for Unary Computing</a></h2>
-      <div class="article-style">
-        
-          An emerging computing scheme based on unary bit streams.
-        
-      </div>
-    </div>
-  
-
-  
-
+  </ul>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://unarycomputing.github.io/"><img class="avatar mr-3 avatar-circle" src="/author/unary-computing/avatar_hu2f92d5b25d123590de0ad34a835a1117_925155_270x270_fill_lanczos_center_2.png" alt="Unary Computing"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://unarycomputing.github.io/">Unary Computing</a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:di.wu@ece.wisc.edu" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/2019-06-02-dac/">In-Stream Stochastic Division and Square Root via Correlation</a></li>
+      
+      <li><a href="/project/sim-function/">Function Simulation for Unary Computing</a></li>
+      
+      <li><a href="/project/arch-hybrid-unary-binary/">Hybrid Unary Binary Architecture</a></li>
+      
+      <li><a href="/project/sim-performance/">Performance Simulation for Unary Computing</a></li>
+      
+      <li><a href="/resource/2020-05-30-isca/">uGEMM: Unary Computing Architecture for GEMM Applications</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</article>
   </div>
 
   <div class="page-footer">

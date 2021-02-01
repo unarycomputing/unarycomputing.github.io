@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Unary Computing</title>
+    <title>Posts | Unary Computing Projects</title>
     <link>https://unarycomputing.github.io/post/</link>
       <atom:link href="https://unarycomputing.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
@@ -35,6 +35,22 @@
       <link>https://unarycomputing.github.io/post/aspdac-accepted/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://unarycomputing.github.io/post/aspdac-accepted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uGEMM: Unary Computing Architecture for GEMM Applications</title>
+      <link>https://unarycomputing.github.io/post/2020-05-30-isca/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/post/2020-05-30-isca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Stream Stochastic Division and Square Root via Correlation</title>
+      <link>https://unarycomputing.github.io/post/2019-06-02-dac/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/post/2019-06-02-dac/</guid>
       <description></description>
     </item>
     
