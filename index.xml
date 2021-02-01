@@ -78,7 +78,7 @@
       <link>https://unarycomputing.github.io/project/arch-fully-streaming/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://unarycomputing.github.io/project/arch-fully-streaming/</guid>
-      <description>&lt;p&gt;Design unary computing architecture and microarchitecture that does not introduce latency overhead in binary-unary data inter-conversion, so as to maximally overlap the computing at different stage to reduce the overall latency and energy consumption. This category of architecture is also usually fully parallel.&lt;/p&gt;
+      <description>&lt;p&gt;Design unary computing architecture and microarchitecture that does not introduce latency overhead in binary-unary data inter-conversion, so as to maximally overlap the computing at different stages for hardware efficiency. This category of design is usually fully parallel.&lt;/p&gt;
 </description>
     </item>
     
