@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Function Simulation for Unary Computing</title>
+      <title>Functional Simulation for Unary Computing</title>
       <link>https://unarycomputing.github.io/project/sim-function/</link>
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://unarycomputing.github.io/project/sim-function/</guid>
@@ -23,9 +23,9 @@
     
     <item>
       <title>Fully Streaming Unary Architecture</title>
-      <link>https://unarycomputing.github.io/project/arch-fully-streaming/</link>
+      <link>https://unarycomputing.github.io/project/arch-fully-streaming-unary/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://unarycomputing.github.io/project/arch-fully-streaming/</guid>
+      <guid>https://unarycomputing.github.io/project/arch-fully-streaming-unary/</guid>
       <description>&lt;p&gt;Design unary computing architecture and microarchitecture that does not introduce latency overhead in binary-unary data inter-conversion, so as to maximally overlap the computing at different stages for hardware efficiency. This category of design is usually fully parallel.&lt;/p&gt;
 </description>
     </item>
