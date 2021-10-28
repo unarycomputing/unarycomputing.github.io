@@ -5,12 +5,30 @@
     <link>https://unarycomputing.github.io/project/</link>
       <atom:link href="https://unarycomputing.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://unarycomputing.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://unarycomputing.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Hybrid Unary Binary Architecture</title>
+      <link>https://unarycomputing.github.io/project/arch-hybrid-unary-binary/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/project/arch-hybrid-unary-binary/</guid>
+      <description>&lt;p&gt;Design hybrid unary binary architecture to avoid overly large power in fully streaming architecture, which is usually fully parallel.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performance Simulation for Unary Computing</title>
+      <link>https://unarycomputing.github.io/project/sim-performance/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/project/sim-performance/</guid>
+      <description>&lt;p&gt;Simulate the performance of unary computing in the context of binary memory system.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Functional Simulation for Unary Computing</title>
