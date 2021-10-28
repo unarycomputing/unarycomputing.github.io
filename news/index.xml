@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News | Unary Computing Projects</title>
+    <title>Recent News | Unary Computing Projects</title>
     <link>https://unarycomputing.github.io/news/</link>
       <atom:link href="https://unarycomputing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
-    <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <description>Recent News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://unarycomputing.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>News</title>
+      <title>Recent News</title>
       <link>https://unarycomputing.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>A paper on hybrid unary binary systolic array is accepted in HPCA 2022</title>
+      <link>https://unarycomputing.github.io/news/2021-10-28-hpca/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/news/2021-10-28-hpca/</guid>
+      <description>&lt;p&gt;More information can be found &lt;a href=&#34;https://github.com/diwu1990/uSystolic-Sim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://unarycomputing.github.io/publication/2022-02-12-hpca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A paper on characterizing early termination is accepted in ASP-DAC 2022</title>
+      <link>https://unarycomputing.github.io/news/2021-09-28-aspdac/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/news/2021-09-28-aspdac/</guid>
+      <description>&lt;p&gt;More information can be found &lt;a href=&#34;https://unarycomputing.github.io/publication/2022-01-17-aspdac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>uGEMM (ISCA&#39;20) is selected as one of twelve IEEE Micro Top Picks for 2020</title>

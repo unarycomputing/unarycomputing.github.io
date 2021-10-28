@@ -5,12 +5,20 @@
     <link>https://unarycomputing.github.io/author/hsuan-hsiao/</link>
       <atom:link href="https://unarycomputing.github.io/author/hsuan-hsiao/index.xml" rel="self" type="application/rss+xml" />
     <description>Hsuan Hsiao</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://unarycomputing.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Hsuan Hsiao</title>
       <link>https://unarycomputing.github.io/author/hsuan-hsiao/</link>
     </image>
+    
+    <item>
+      <title>Streaming Accuracy: Characterizing Early Termination in Stochastic Computing </title>
+      <link>https://unarycomputing.github.io/publication/2022-01-17-aspdac/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/publication/2022-01-17-aspdac/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>uGEMM: Unary Computing for GEMM Applications</title>

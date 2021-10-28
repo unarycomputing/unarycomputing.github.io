@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Simulate the performance of unary computing in the context of binary memory system." />
+  <meta name="description" content="General matrix multiply (GEMM) is an important operation in broad applications, especially the thriving deep neural networks. To achieve low power consumption for GEMM, researchers have already leveraged unary computing, which manipulates bitstreams with extremely simple logic. However, existing unary architectures are not well generalizable to varying GEMM configurations in versatile applications and incompatible to the binary computing stack, imposing challenges to execute unary GEMM effortlessly. In this work, we address the problem by architecting a hybrid unary-binary systolic array, uSystolic, to inherit the legacy-binary data scheduling with slow (thus power-efficient) data movement, i.e., data bytes are crawling out from memory to drive uSystolic. uSystolic exhibits tremendous area and power improvements as a joint effect of 1) low-power computing kernel, 2) spatial-temporal bitstream reuse, and 3) on-chip SRAM elimination. For the evaluated edge computing scenario, compared with the binary parallel design, the rated-coded uSystolic reduces the systolic array area and total on-chip area by 59.0% and 91.3%, with the on-chip energy and power efficiency improved by up to 112.2X and 44.8X for AlexNet." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://unarycomputing.github.io/project/sim-performance/" />
+  <link rel="alternate" hreflang="en-us" href="https://unarycomputing.github.io/publication/2022-02-12-hpca/" />
 
   
 
@@ -276,7 +276,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="https://unarycomputing.github.io/project/sim-performance/" />
+  <link rel="canonical" href="https://unarycomputing.github.io/publication/2022-02-12-hpca/" />
 
   
   
@@ -287,16 +287,15 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Unary Computing Projects" />
-  <meta property="og:url" content="https://unarycomputing.github.io/project/sim-performance/" />
-  <meta property="og:title" content="Performance Simulation for Unary Computing | Unary Computing Projects" />
-  <meta property="og:description" content="Simulate the performance of unary computing in the context of binary memory system." /><meta property="og:image" content="https://unarycomputing.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="https://unarycomputing.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://unarycomputing.github.io/publication/2022-02-12-hpca/" />
+  <meta property="og:title" content="uSystolic: Byte-Crawling Unary Systolic Array | Unary Computing Projects" />
+  <meta property="og:description" content="General matrix multiply (GEMM) is an important operation in broad applications, especially the thriving deep neural networks. To achieve low power consumption for GEMM, researchers have already leveraged unary computing, which manipulates bitstreams with extremely simple logic. However, existing unary architectures are not well generalizable to varying GEMM configurations in versatile applications and incompatible to the binary computing stack, imposing challenges to execute unary GEMM effortlessly. In this work, we address the problem by architecting a hybrid unary-binary systolic array, uSystolic, to inherit the legacy-binary data scheduling with slow (thus power-efficient) data movement, i.e., data bytes are crawling out from memory to drive uSystolic. uSystolic exhibits tremendous area and power improvements as a joint effect of 1) low-power computing kernel, 2) spatial-temporal bitstream reuse, and 3) on-chip SRAM elimination. For the evaluated edge computing scenario, compared with the binary parallel design, the rated-coded uSystolic reduces the systolic array area and total on-chip area by 59.0% and 91.3%, with the on-chip energy and power efficiency improved by up to 112.2X and 44.8X for AlexNet." /><meta property="og:image" content="https://unarycomputing.github.io/publication/2022-02-12-hpca/featured.png" />
+    <meta property="twitter:image" content="https://unarycomputing.github.io/publication/2022-02-12-hpca/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -304,7 +303,7 @@
         content="2021-10-28T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2021-10-28T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-02-12T00:00:00&#43;00:00">
   
 
   
@@ -326,12 +325,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://unarycomputing.github.io/project/sim-performance/"
+    "@id": "https://unarycomputing.github.io/publication/2022-02-12-hpca/"
   },
-  "headline": "Performance Simulation for Unary Computing",
+  "headline": "uSystolic: Byte-Crawling Unary Systolic Array",
+  
+  "image": [
+    "https://unarycomputing.github.io/publication/2022-02-12-hpca/featured.png"
+  ],
   
   "datePublished": "2021-10-28T00:00:00Z",
-  "dateModified": "2021-10-28T00:00:00Z",
+  "dateModified": "2022-02-12T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -346,7 +349,7 @@
       "url": "https://unarycomputing.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Simulate the performance of unary computing in the context of binary memory system."
+  "description": "General matrix multiply (GEMM) is an important operation in broad applications, especially the thriving deep neural networks. To achieve low power consumption for GEMM, researchers have already leveraged unary computing, which manipulates bitstreams with extremely simple logic. However, existing unary architectures are not well generalizable to varying GEMM configurations in versatile applications and incompatible to the binary computing stack, imposing challenges to execute unary GEMM effortlessly. In this work, we address the problem by architecting a hybrid unary-binary systolic array, uSystolic, to inherit the legacy-binary data scheduling with slow (thus power-efficient) data movement, i.e., data bytes are crawling out from memory to drive uSystolic. uSystolic exhibits tremendous area and power improvements as a joint effect of 1) low-power computing kernel, 2) spatial-temporal bitstream reuse, and 3) on-chip SRAM elimination. For the evaluated edge computing scenario, compared with the binary parallel design, the rated-coded uSystolic reduces the systolic array area and total on-chip area by 59.0% and 91.3%, with the on-chip energy and power efficiency improved by up to 112.2X and 44.8X for AlexNet."
 }
 </script>
 
@@ -362,11 +365,11 @@
 
 
 
-  <title>Performance Simulation for Unary Computing | Unary Computing Projects</title>
+  <title>uSystolic: Byte-Crawling Unary Systolic Array | Unary Computing Projects</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="4dfdf52f69bc3d47afd1d2e08c2f0737" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="f74678610968ac3675a85497142a113a" >
 
   
   
@@ -661,37 +664,63 @@
   </div>
 
   <div class="page-body">
-    <article class="article article-project">
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-<div class="article-container pt-3">
-  <h1>Performance Simulation for Unary Computing</h1>
-
-  
-
-  
     
+
+
+
+
+
+
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>uSystolic: Byte-Crawling Unary Systolic Array</h1>
+
+  
+
+  
 
 
 <div class="article-metadata">
 
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      <a href="/author/unary-computing/">Unary Computing</a></span>, <span >
+      <a href="/author/joshua-san-miguel/">Joshua San Miguel</a></span>
+  </div>
   
   
 
@@ -701,7 +730,7 @@
     
       
     
-    Oct 28, 2021
+    February 2022
   </span>
   
 
@@ -721,7 +750,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -743,6 +772,11 @@
 
 
 
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/2022-02-12-hpca/cite.bib">
+  Cite
+</a>
+
 
   
   
@@ -755,6 +789,18 @@
 
 
 
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/project/arch-hybrid-unary-binary/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/project/sim-performance/">
+    Project
+  </a>
+  
+
 
 
 
@@ -768,17 +814,61 @@
 </div>
 
 
-  
+</div>
+
+
+<div class="article-header container featured-image-wrapper mt-4 mb-4" style="max-width: 999px; max-height: 341px;">
+  <div style="position: relative">
+    <img src="/publication/2022-02-12-hpca/featured.png" alt="" class="featured-image">
+    <span class="article-header-caption">uSystolic overview with memory hierarchy</span>
+  </div>
 </div>
 
 
 
   <div class="article-container">
 
-    <div class="article-style">
-      <p>Simulate the performance of unary computing in the context of binary memory system.</p>
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">General matrix multiply (GEMM) is an important operation in broad applications, especially the thriving deep neural networks. To achieve low power consumption for GEMM, researchers have already leveraged unary computing, which manipulates bitstreams with extremely simple logic. However, existing unary architectures are not well generalizable to varying GEMM configurations in versatile applications and incompatible to the binary computing stack, imposing challenges to execute unary GEMM effortlessly. In this work, we address the problem by architecting a hybrid unary-binary systolic array, uSystolic, to inherit the legacy-binary data scheduling with slow (thus power-efficient) data movement, i.e., data bytes are crawling out from memory to drive uSystolic. uSystolic exhibits tremendous area and power improvements as a joint effect of 1) low-power computing kernel, 2) spatial-temporal bitstream reuse, and 3) on-chip SRAM elimination. For the evaluated edge computing scenario, compared with the binary parallel design, the rated-coded uSystolic reduces the systolic array area and total on-chip area by 59.0% and 91.3%, with the on-chip energy and power efficiency improved by up to 112.2X and 44.8X for AlexNet.</p>
+    
 
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In <em>International Symposium on High-Performance Computer Architecture</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
@@ -786,6 +876,18 @@
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/unary-computing/">Unary Computing</a>
+  
+  <a class="badge badge-light" href="/tag/gemm-architecture/">GEMM Architecture</a>
+  
+  <a class="badge badge-light" href="/tag/energy-efficiency/">Energy Efficiency</a>
+  
+  <a class="badge badge-light" href="/tag/power-efficiency/">Power Efficiency</a>
+  
+</div>
 
 
 
@@ -800,7 +902,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://unarycomputing.github.io/project/sim-performance/&amp;text=Performance%20Simulation%20for%20Unary%20Computing" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://unarycomputing.github.io/publication/2022-02-12-hpca/&amp;text=uSystolic:%20Byte-Crawling%20Unary%20Systolic%20Array" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -813,7 +915,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://unarycomputing.github.io/project/sim-performance/&amp;t=Performance%20Simulation%20for%20Unary%20Computing" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://unarycomputing.github.io/publication/2022-02-12-hpca/&amp;t=uSystolic:%20Byte-Crawling%20Unary%20Systolic%20Array" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -826,7 +928,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Performance%20Simulation%20for%20Unary%20Computing&amp;body=https://unarycomputing.github.io/project/sim-performance/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=uSystolic:%20Byte-Crawling%20Unary%20Systolic%20Array&amp;body=https://unarycomputing.github.io/publication/2022-02-12-hpca/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -839,7 +941,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://unarycomputing.github.io/project/sim-performance/&amp;title=Performance%20Simulation%20for%20Unary%20Computing" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://unarycomputing.github.io/publication/2022-02-12-hpca/&amp;title=uSystolic:%20Byte-Crawling%20Unary%20Systolic%20Array" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -852,7 +954,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Performance%20Simulation%20for%20Unary%20Computing%20https://unarycomputing.github.io/project/sim-performance/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=uSystolic:%20Byte-Crawling%20Unary%20Systolic%20Array%20https://unarycomputing.github.io/publication/2022-02-12-hpca/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -865,7 +967,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://unarycomputing.github.io/project/sim-performance/&amp;title=Performance%20Simulation%20for%20Unary%20Computing" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://unarycomputing.github.io/publication/2022-02-12-hpca/&amp;title=uSystolic:%20Byte-Crawling%20Unary%20Systolic%20Array" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -885,6 +987,7 @@
 
   
   
+    
 
 
 
@@ -928,171 +1031,53 @@
   </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-    <div class="project-related-pages content-widget-hr">
-      
-      
-
-      
-      
-      
-
-      
-      
-      
-        <h2>Publications</h2>
-        
-          
-            
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/2022-02-12-hpca/" >uSystolic: Byte-Crawling Unary Systolic Array</a>
-    </div>
-
-    
-    <a href="/publication/2022-02-12-hpca/"  class="summary-link">
-      <div class="article-style">
-        General matrix multiply (GEMM) is an important operation in broad applications, especially the thriving deep neural networks. To …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span class="author-highlighted">
-      <a href="/author/unary-computing/">Unary Computing</a></span>, <span >
-      <a href="/author/joshua-san-miguel/">Joshua San Miguel</a></span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/2022-02-12-hpca/cite.bib">
-  Cite
-</a>
-
-
-  
   
     
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/diwu1990/uSystolic-Sim" target="_blank" rel="noopener">
-  Code
-</a>
 
 
 
 
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/arch-hybrid-unary-binary/">
-    Project
-  </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
-
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/sim-performance/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/2021-01-11-ieeedt/">In-Stream Correlation-Based Division and Bit-Inserting Square Root in Stochastic Computing</a></li>
+      
+      <li><a href="/publication/2019-06-02-dac/">In-Stream Stochastic Division and Square Root via Correlation</a></li>
+      
+      <li><a href="/publication/2021-01-18-aspdac-ns/">Normalized Stability: A Cross-Level Design Metric for Early Termination in Stochastic Computing</a></li>
+      
+      <li><a href="/publication/2022-01-17-aspdac/">Streaming Accuracy: Characterizing Early Termination in Stochastic Computing </a></li>
+      
+      <li><a href="/publication/2021-01-18-aspdac-zce/">Zero Correlation Error: A Metric for Finite-Length Bitstream Independence in Stochastic Computing</a></li>
+      
+    </ul>
   </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/2022-02-12-hpca/" >
-      <img src="/publication/2022-02-12-hpca/featured_hua9a76cfcaa86d81b024c85299b558521_92189_150x0_resize_lanczos_2.png" alt="uSystolic: Byte-Crawling Unary Systolic Array" loading="lazy">
-    </a>
-    
+  
+
+
+
+
+
   </div>
 </div>
-
-          
-        
-      
-
-      
-      
-      
-    </div>
-  </div>
-</article>
   </div>
 
   <div class="page-footer">
