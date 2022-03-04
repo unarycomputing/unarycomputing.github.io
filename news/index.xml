@@ -5,7 +5,7 @@
     <link>https://unarycomputing.github.io/news/</link>
       <atom:link href="https://unarycomputing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://unarycomputing.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Recent News</title>
@@ -13,20 +13,20 @@
     </image>
     
     <item>
+      <title>A paper on unary computing for brain computer interface is accepted in ISCA 2022</title>
+      <link>https://unarycomputing.github.io/news/2022-03-02-isca/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://unarycomputing.github.io/news/2022-03-02-isca/</guid>
+      <description>&lt;p&gt;More information can be found &lt;a href=&#34;https://unarycomputing.github.io/publication/2022-06-11-isca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A paper on hybrid unary binary systolic array is accepted in HPCA 2022</title>
       <link>https://unarycomputing.github.io/news/2021-10-28-hpca/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://unarycomputing.github.io/news/2021-10-28-hpca/</guid>
       <description>&lt;p&gt;More information can be found &lt;a href=&#34;https://github.com/diwu1990/uSystolic-Sim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://unarycomputing.github.io/publication/2022-02-12-hpca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A paper on unary computing for brain computer interface is accepted in ISCA 2022</title>
-      <link>https://unarycomputing.github.io/news/2022-03-02-isca/</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://unarycomputing.github.io/news/2022-03-02-isca/</guid>
-      <description>&lt;p&gt;More information can be found &lt;a href=&#34;https://unarycomputing.github.io/publication/2022-06-11-isca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
